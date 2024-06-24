@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=martinaemunoz&label=Profile%20views&color=0e75b6&style=flat" alt="martinaemunoz" /> </p>
 
-- 🔭 I’m was previously working on **Laboratoria Bootcamp 💛**
+- 🔭 I was previously working on **Laboratoria Bootcamp 💛**
 
 - 🌱 I’m currently learning **Playwright and E2E Testing With Node.js 💻**
 
