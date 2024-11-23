@@ -7,7 +7,7 @@
   
 - 🔭 I graduated from **Laboratoria Bootcamp 💛** as a Front-End Developer
 
-- 🌱 I’m currently learning **Selenium** and **MySQL**
+- 🌱 I’m currently learning **Selenium** and **MySQL** 🐬💻
 
 - 💬 Ask me about **Quality Assurance** and **Test Automation**
 
