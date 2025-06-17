@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=martinaemunoz&label=Profile%20views&color=0e75b6&style=flat" alt="martinaemunoz" /> </p>
 
-- 🔍 QA enthusiast with experience in E2E Testing, and manual testing validation for web and mobile apps.
+- 🔍 QA enthusiast with experience in E2E Testing and manual testing validation for web and mobile apps.
   
 - 🔭 I graduated from **Laboratoria Bootcamp 💛** as a Front-End Developer
 
