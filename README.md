@@ -7,7 +7,7 @@
   
 - 🔭 I graduated from **Laboratoria Bootcamp 💛** as a Front-End Developer
 
-- 🌱 I’m currently working at **Rex+** as a **QA Automation Engineer** 💻
+- 🌱 I’m currently working at **Rex+ Software for HR** as a **QA Automation Engineer** 💻
 
 - 💬 Ask me about **Quality Assurance** and **Test Automation**
 
