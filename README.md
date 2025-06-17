@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=martinaemunoz&label=Profile%20views&color=0e75b6&style=flat" alt="martinaemunoz" /> </p>
 
-- 🔍 QA enthusiast with experience in manual testing, functional testing, and data validation for web and mobile apps.
+- 🔍 QA enthusiast with experience in E2E Testing, and manual testing validation for web and mobile apps.
   
 - 🔭 I graduated from **Laboratoria Bootcamp 💛** as a Front-End Developer
 
-- 🌱 I’m currently learning **Selenium** and **MySQL** 🐬💻
+- 🌱 I’m currently working at **Rex+** as a **QA Automation Engineer** 💻
 
 - 💬 Ask me about **Quality Assurance** and **Test Automation**
 
