@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently working at **Rex+ Software for HR** as a **QA Automation Engineer** 💻
 
-- 💬 Ask me about **Quality Assurance** and **Test Automation**
+- 💬 Ask me about **Quality Assurance** and **Test Automation with Cypress**
 
 - 📫 How to reach me **martinaemunoz@gmail.com**
 
