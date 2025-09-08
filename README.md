@@ -1,9 +1,9 @@
 <h1 align="center">Hi there👋, I'm Marti</h1>
-<h3 align="center">A dedicated QA Analyst from Chile 🌐</h3>
+<h3 align="center">A dedicated QA Automation Engineer from Chile 🌐</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=martinaemunoz&label=Profile%20views&color=0e75b6&style=flat" alt="martinaemunoz" /> </p>
 
-- 🔍 QA enthusiast with experience in E2E Testing and manual testing validation for web and mobile apps.
+- 🔍 QA Automation Engineer with experience in E2E Testing and manual testing validation for web and mobile apps.
   
 - 🔭 I graduated from **Laboratoria Bootcamp 💛** as a Front-End Developer
 
