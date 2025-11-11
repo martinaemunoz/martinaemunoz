@@ -7,7 +7,7 @@
   
 - 🔭 I graduated from **Laboratoria Bootcamp 💛** as a Front-End Developer
 
-- 🌱 I’m currently working at **Rex+ Software for HR** as a **QA Automation Engineer** 💻
+- 🌱 I’m currently working at **Lemontech** as a **QA Automation Engineer** 💻
 
 - 💬 Ask me about **Quality Assurance** and **Test Automation with Cypress**
 
@@ -17,7 +17,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/martinaemunoz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="martinaemunoz" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/martina-mu%C3%B1oz-c/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="martinaemunoz" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
